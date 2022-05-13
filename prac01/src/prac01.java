@@ -7,7 +7,7 @@
     1. 문자열이 짝수일 경우와 홀수일 경우를 조건문으로 분리한다.
     2. 홀수일 경우 문자열 길이의 절반에 해당하는 문자열을 반환한다.
     3. 짝수일 경우 문자열 길이의 절반에서 -1~+1 까지 범위의 문자열을 반환한다.
-   
+
  */
 class Solution {
     String answer = "";
@@ -24,7 +24,7 @@ class Solution {
 
 public class prac01 {
     public static void main(String[] args) {
-        Solution a = new Solution();
+        Solution2 a = new Solution2();
         String answer = a.solution("abcdeffd");
         System.out.println(answer);
     }
