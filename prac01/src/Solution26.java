@@ -25,6 +25,7 @@ class Solution27 {
             return low_size;
         }
 
+
         integerArray.remove((Integer)Collections.min(integerArray));
 
         int[] arr1 = new int[integerArray.size()];
