@@ -8,9 +8,17 @@
 
 2022년
 
-5월 13일 <span style="color:red">완료</span>
+5월 13일 <span style="color:tomato">완료</span>
 
 5월 14일 <span style ="color:tomato">완료</span>
 
 5월 15일 <span style ="color:aqua">휴일!</span>
+
+5월 16일 <span style ="color:tomato">완료</span>
+
+5월 17일 <span style ="color:tomato">완료</span>
+
+5월 18일 <span style ="color:tomato">완료</span>
+
+5월 19일 <span style ="color:tomato">완료</span>
 
